@@ -7,8 +7,7 @@ from datetime import time
 
 today = datetime.today()
 now = datetime.now()
-print (datetime.now())
 
-#print(today.strftime("%A, %B %dth %Y") + now.strftime(" at %I:%M %P"))
+#Print Date and time using given format
 print(today.strftime("%A, %B %dth %Y at"), end = " ")
 print(now.strftime("%I:%M %p"))
