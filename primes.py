@@ -8,13 +8,12 @@ n = int(input("Please enter a positive number: "))
 if n > 1:
     #Check and any other divisor
     for i in range(2, n):
-        if(n % i) == 0:
+        if(n % i == 0):
             print(int(n), "is not a Prime Number")
             print(i, "times", int(n/i), "is", n)
             break
-        else:
-            print(n, "is a Prime Number")
-            break
+    else:
+        print(int(n), "is a Prime Number")
 #If input value is less than 0 or equal to 1 then it is not a Prime number
 else:
     print(n,"is not a Prime Number")
