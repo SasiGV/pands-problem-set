@@ -1,3 +1,5 @@
+#Sasikala Varatharajan G00376470
+
 #Program to get a filename as an argument. Read and output every second line.
 
 #Import sys module to handle command line arguments

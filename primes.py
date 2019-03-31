@@ -1,3 +1,5 @@
+#Sasikala Varatharajan G00376470
+
 #Program to verify whether the input number is prime or not
 #Prime number is divisable by itself and 1 only
 

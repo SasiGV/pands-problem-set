@@ -1,3 +1,4 @@
+#Sasikala Varatharajan G00376470
 #Program to print every second word from the given input
 
 #Get input from the user
