@@ -12,4 +12,4 @@ now = datetime.now()
 
 #Print Date and time using given format
 print(today.strftime("%A, %B %dth %Y at"), end = " ")
-print(now.strftime("%I:%M %p"))
+print(now.strftime("%#I:%M %p"))
