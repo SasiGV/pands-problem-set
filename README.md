@@ -26,7 +26,7 @@ Based on the instructions from the Problem set you can find solution for each pr
     
 ##### References #####
 
-    [For Loop in Python](https://docs.python.org/3/tutorial/controlflow.html)
+[For Loop in Python](https://docs.python.org/3/tutorial/controlflow.html)
 
 ### 2. begins-with-t.py
 
@@ -35,7 +35,7 @@ Based on the instructions from the Problem set you can find solution for each pr
 
 ##### References #####
 
-    [startswith](https://docs.python.org/3/library/stdtypes.html?highlight=startswith#str.startswith)
+[startswith](https://docs.python.org/3/library/stdtypes.html?highlight=startswith#str.startswith)
 
 ### 3. divisors.py
     
@@ -44,7 +44,7 @@ Based on the instructions from the Problem set you can find solution for each pr
 
 ##### References #####
 
-    [Modulus](https://www.programiz.com/python-programming/operators)
+[Modulus](https://www.programiz.com/python-programming/operators)
 
 ### 4. Collatz.py
 
@@ -53,7 +53,7 @@ Based on the instructions from the Problem set you can find solution for each pr
 
 ##### References #####
 
-    Using [end] parameter (https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/) 
+Using [end] parameter (https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/) 
 
 ### 5. primes.py
 
@@ -67,7 +67,7 @@ Based on the instructions from the Problem set you can find solution for each pr
 
 ##### References #####
 
-    [List](https://www.tutorialspoint.com/python/python_lists.htm)
+[List](https://www.tutorialspoint.com/python/python_lists.htm)
 
 ### 7. squareroot.py
 
@@ -76,7 +76,7 @@ Based on the instructions from the Problem set you can find solution for each pr
 
 ##### References #####
 
-    [Is_integer](https://stackoverflow.com/questions/3501382/checking-whether-a-variable-is-an-integer-or-not)
+[Is_integer](https://stackoverflow.com/questions/3501382/checking-whether-a-variable-is-an-integer-or-not)
 
 ### 8. dateandtime.py
 
@@ -84,7 +84,7 @@ Based on the instructions from the Problem set you can find solution for each pr
 
 ##### References #####
 
-    [datetime](https://www.programiz.com/python-programming/datetime)
+[datetime](https://www.programiz.com/python-programming/datetime)
 
 ### 9. second.py
 
@@ -96,7 +96,7 @@ Based on the instructions from the Problem set you can find solution for each pr
 
 ##### References #####
 
-    [encoding](https://stackoverflow.com/questions/30750843/python-3-unicodedecodeerror-charmap-codec-cant-decode-byte-0x9d?noredirect=1)
+[encoding](https://stackoverflow.com/questions/30750843/python-3-unicodedecodeerror-charmap-codec-cant-decode-byte-0x9d?noredirect=1)
     Help to [read] a file. (https://stackabuse.com/read-a-file-line-by-line-in-python/)
     [Sample File](https://www.sparknotes.com/lit/mobydick/section2/)
 
@@ -107,7 +107,8 @@ Based on the instructions from the Problem set you can find solution for each pr
 
 ##### References #####
 
-    [matlab](https://www.tutorialspoint.com/matlab/matlab_plotting.htm)
+[matlab](https://www.tutorialspoint.com/matlab/matlab_plotting.htm)
     [pyplot](https://matplotlib.org/users/pyplot_tutorial.html)
+    
     Output of this program is attached [here](/myplot_output.png "Result")
 
