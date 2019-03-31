@@ -97,8 +97,8 @@ Using [end] parameter (https://www.geeksforgeeks.org/gfact-50-python-end-paramet
 ##### References #####
 
 [encoding](https://stackoverflow.com/questions/30750843/python-3-unicodedecodeerror-charmap-codec-cant-decode-byte-0x9d?noredirect=1)
-    Help to [read] a file. (https://stackabuse.com/read-a-file-line-by-line-in-python/)
-    [Sample File](https://www.sparknotes.com/lit/mobydick/section2/)
+Help to [read] a file. (https://stackabuse.com/read-a-file-line-by-line-in-python/)
+[Sample File](https://www.sparknotes.com/lit/mobydick/section2/)
 
 ### 10. myplot.py
 
@@ -108,7 +108,7 @@ Using [end] parameter (https://www.geeksforgeeks.org/gfact-50-python-end-paramet
 ##### References #####
 
 [matlab](https://www.tutorialspoint.com/matlab/matlab_plotting.htm)
-    [pyplot](https://matplotlib.org/users/pyplot_tutorial.html)
-    
-    Output of this program is attached [here](/myplot_output.png "Result")
+[pyplot](https://matplotlib.org/users/pyplot_tutorial.html)
+
+Output of this program is attached [here](/myplot_output.png "Result")
 
