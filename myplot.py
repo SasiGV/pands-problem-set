@@ -18,10 +18,12 @@ y2 = 2**x
 #Arange the values in a plot
 plt.plot(x, y, x, y1, x, y2, '.-')
 
-#Label x-axis and y-axis 
+#Label x-axis and y-axis and add title
 plt.xlabel('Values of X')
 plt.ylabel('Values of Y')
 plt.title('Histogram of functions x, x^2 and 2^x')
+#Set grid to True to view the grid on the plot
 plt.grid(True)
 
+#Show the plot
 plt.show()
